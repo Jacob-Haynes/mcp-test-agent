@@ -1,0 +1,11 @@
+# Google ADK Framework
+google-adk
+
+# MCP (Model Context Protocol)
+mcp
+
+# LLM Integration
+litellm
+
+# Environment variables
+python-dotenv
